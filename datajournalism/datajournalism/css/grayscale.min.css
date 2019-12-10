@@ -185,28 +185,31 @@
     -webkit-text-fill-color: #F5F5F5;
 }
 
+
+/*
 @media (min-width:768px) {
-    .masthead h1 {
+    .masthead1 h1 {
         font-size: 4rem;
         line-height: 4rem
     }
 }
 
 @media (min-width:992px) {
-    .masthead {
+    .masthead1 {
         height: 100vh;
         padding: 0
     }
-    .masthead h1 {
+    .masthead1 h1 {
         font-size: 6.5rem;
         line-height: 6.5rem;
         letter-spacing: .8rem
     }
-    .masthead h2 {
+    .masthead1 h2 {
         max-width: 30rem;
         font-size: 1.25rem
     }
 }
+*/
 
 .btn {
     box-shadow: 0 .1875rem .1875rem 0 rgba(0, 0, 0, .1) !important;
