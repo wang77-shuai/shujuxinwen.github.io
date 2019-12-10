@@ -142,10 +142,23 @@
     font-size: 1rem
 }
 
+.masthead3 {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: url(../img/111.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover
+}
+
 .masthead1 {
     position: relative;
     width: 100%;
-    height: auto;
+    height: 600px;
     min-height: 35rem;
     padding: 15rem 0;
     background: url(../img/111.jpg);
@@ -157,7 +170,7 @@
 
 .masthead1 h1 {
     font-family: 'Varela Round';
-    font-size: 5rem;
+    font-size: 4.5rem;
     line-height: 8rem;
     letter-spacing: .8rem;
     /*background: -webkit-linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, 0));*/
@@ -223,7 +236,7 @@
 }
 
 .about-section {
-    padding-top: 3rem;
+    padding-top: 0.5rem;
     /* background: linear-gradient(to bottom, #161616 0, rgba(22, 22, 22, .9) 75%, rgba(22, 22, 22, .8) 100%)*/
 }
 
