@@ -181,7 +181,7 @@
 .masthead1 h2 {
     max-width: 30rem;
     font-size: 1rem;
-    padding-top: 75px;
+    /*padding-top: 50px;*/
     -webkit-text-fill-color: #F5F5F5;
 }
 
@@ -292,7 +292,7 @@
 }
 
 .signup-section {
-    padding: 10rem 0;
+    padding: 2rem 0;
     background: url(../img/bg-signup.jpg);
     background-position: center;
     background-repeat: no-repeat;
