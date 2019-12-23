@@ -174,7 +174,8 @@
     line-height: 8rem;
     letter-spacing: .8rem;
     /*background: -webkit-linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, 0));*/
-    -webkit-text-fill-color: #FFFFFF;
+    -webkit-text-fill-color: #1f89ff;
+    ;
     -webkit-background-clip: text
 }
 
@@ -182,7 +183,7 @@
     max-width: 30rem;
     font-size: 1rem;
     /*padding-top: 50px;*/
-    -webkit-text-fill-color: #F5F5F5;
+    -webkit-text-fill-color: #1f89ff;
 }
 
 
